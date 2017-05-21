@@ -1,0 +1,20 @@
+{
+  "name": "shoping-cart",
+  "version": "1.0.0",
+  "description": "Online store with Angularjs.",
+  "main": "index.js",
+  "scripts": {
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
+  },
+  "author": "CDB",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
